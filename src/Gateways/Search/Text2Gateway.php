@@ -1,9 +1,8 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: li
- * Date: 2017/12/8
- * Time: 17:46
+ * User: tang
+ * Date: 2023/08/07
  */
 
 namespace Reprover\Amap\Gateways\Search;
